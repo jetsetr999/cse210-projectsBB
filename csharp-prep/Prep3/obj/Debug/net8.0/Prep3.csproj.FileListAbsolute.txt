@@ -1,0 +1,15 @@
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.exe
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.deps.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.runtimeconfig.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.pdb
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.AssemblyInfoInputs.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.AssemblyInfo.cs
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.csproj.CoreCompileInputs.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.sourcelink.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\refint\Prep3.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.pdb
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.genruntimeconfig.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\csharp-prep\Prep3\obj\Debug\net8.0\ref\Prep3.dll
