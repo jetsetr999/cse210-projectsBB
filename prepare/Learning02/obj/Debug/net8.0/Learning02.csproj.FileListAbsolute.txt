@@ -1,0 +1,15 @@
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\bin\Debug\net8.0\Learning02.exe
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\bin\Debug\net8.0\Learning02.deps.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\bin\Debug\net8.0\Learning02.runtimeconfig.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\bin\Debug\net8.0\Learning02.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\bin\Debug\net8.0\Learning02.pdb
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfoInputs.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfo.cs
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.csproj.CoreCompileInputs.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.sourcelink.json
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\refint\Learning02.dll
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.pdb
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\Learning02.genruntimeconfig.cache
+C:\Users\djmc8\Documents\School\CSE210\cse210-projects\cse210-projectsBB\prepare\Learning02\obj\Debug\net8.0\ref\Learning02.dll
