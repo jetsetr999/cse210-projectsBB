@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 using System;
 
 public class Job
@@ -13,6 +14,8 @@ public class Job
         Console.WriteLine($"{_jobTitle} ({_company}) {_startYear}-{_endYear}");
     }
 =======
+=======
+>>>>>>> Stashed changes
 using System;
 
 public class Job
@@ -26,5 +29,8 @@ public class Job
     {
         Console.WriteLine($"{_jobTitle} ({_company}) {_startYear}-{_endYear}");
     }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }

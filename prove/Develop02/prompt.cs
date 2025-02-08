@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks.Dataflow;
@@ -46,6 +47,8 @@ namespace Journal4
     }
 }
 =======
+=======
+>>>>>>> Stashed changes
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks.Dataflow;
@@ -92,4 +95,7 @@ namespace Journal4
         }
     }
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

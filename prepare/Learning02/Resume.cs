@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 using System;
 
 public class Resume
@@ -19,6 +20,8 @@ public class Resume
     }
 }
 =======
+=======
+>>>>>>> Stashed changes
 using System;
 
 public class Resume
@@ -38,4 +41,7 @@ public class Resume
         }
     }
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
