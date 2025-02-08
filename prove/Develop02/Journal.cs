@@ -12,33 +12,29 @@ namespace Journal4
 
         public string _entry;
         public string _quote;
-         
 
-        DateTime cDate = DateTime.Today;
-        
         public List<Journal> _entryList = new List<Journal>();
 
 
-        public static void _journalEntry()
+        public static void FileJournal()
         {
+            DateTime cDate = DateTime.Today;
 
             string fileName = "jornal25.txt";
             using (StreamWriter outputFile = new StreamWriter(fileName))
             {
+                outputFile.WriteLine($"{cDate}");
                 // You can add text to the file with the WriteLine method
-                outputFile.WriteLine($"date and time elude me ");
+                outputFile.WriteLine($"transfer data eludes me ");
 
                 // You can use the $ and include variables just like with Console.WriteLine
-                string color = "Blue";
+                string color = "violet";
                 outputFile.WriteLine($"My favorite color is {color}");
             }
- 
-
         }
-        
-
-        public static void _displayEntries()
+        public static void DisplayEntries()
         {
+            Console.WriteLine($"test diplay");
 
         }
 

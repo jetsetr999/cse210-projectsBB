@@ -33,10 +33,8 @@ namespace Journal4
                     Console.Write(">");
                     string journalEntry = Console.ReadLine();
                     entry._entry = journalEntry;
-                    entry.DisplayEntries();
+                    //entry.DisplayEntries();
                     
-
-
                     break;
                 case 2:
                     Console.WriteLine("Display journal entries ");
